@@ -1,8 +1,4 @@
-// The script is written by Slavko Zdravevski
-// If you want to support my work, you can subscribe to my youtube channel: https://bit.ly/3FG9hpK
-// I do a lot of interesting things in my free time, so you might find something of your interest or we can exchange ideas and knowledge
 
-// Libraries, I also put them on github
 #include <SoftwareSerial.h>
 
 // Pinout declaration
